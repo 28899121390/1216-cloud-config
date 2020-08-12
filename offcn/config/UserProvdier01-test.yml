@@ -1,6 +1,6 @@
 spring:
   application:
-    name: UserProvider1
+    name: UserProvider01
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     url:  jdbc:mysql://192.168.188.139:3306/jpa001?serverTimezone=GMT%2B8
